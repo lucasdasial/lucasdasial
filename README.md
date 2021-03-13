@@ -1,5 +1,5 @@
-<h1 align="center">Olá Mundo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Lucas Alves⚡</h1>
-<h3 align="center">Cursando Analise e desenvolvimento de Sistemas</h3>
+<h1 align="center">Olá Mundo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">🌎 , Eu sou Lucas Alves⚡</h1>
+<h3 align="leaft">Cursando Analise e desenvolvimento de Sistemas</h3>
 
 - Conecte-se comigo 👉
 ![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/silva_salves)
@@ -8,7 +8,7 @@
 
 <p align="leaft"> Estou no iníco da minha jornada como Web developer <br> sou entusiasta por stacks front-end e mobile</p>
 
-- Stacks que estou estudando:
+- Stacks que estou estudando💻:
 <p align="leftt">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="40" height="40"/>
@@ -18,4 +18,4 @@
 </p>
 
 
-<p align=""><img src="https://github-readme-stats.vercel.app/api?username=luccasalves&show_icons=true" alt="luccasalves"/> </p>
+<p align=""><img src="https://github-readme-stats.vercel.app/api?username=luccasalves&show_icons=true&theme=tokyonight" alt="luccasalves"/> </p>
