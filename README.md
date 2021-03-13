@@ -2,7 +2,7 @@
 <h3 align="leaft">Cursando Analise e desenvolvimento de Sistemas</h3>
 
 - Conecte-se comigo 👉
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/silva_salves)]
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/silva_salves)](https://twitter.com/silva_salves)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alveslucano/)](https://www.linkedin.com/in/alveslucano/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/im_lucasalves/)](https://www.instagram.com/im_lucasalves/) 
 
