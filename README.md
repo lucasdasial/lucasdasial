@@ -6,8 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alveslucano/)](https://www.linkedin.com/in/alveslucano/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/im_lucasalves/)](https://www.instagram.com/im_lucasalves/) 
 
-<p align="leaft"> Estou no iníco da minha jornada como Web developer <br> sou entusiasta por stacks front-end e mobile</p>
-
+<p align="leaft"> Estou no iníco da minha jornada como Web developer <br> sou entusiasta por stacks front-end e mobile</p>  
+<p align="leaft"><img src="https://github-readme-stats.vercel.app/api?username=luccasalves&show_icons=true&theme=dark" alt="luccasalves"/> </p>  
 <h3 align="center">Stacks que estou estudando💻:</h3>  
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -17,4 +17,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </p> 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasalves&&layout=compact)"(https://github.com/luccasalves/github-readme-stats)></p>  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=luccasalves&show_icons=true&theme=dark" alt="luccasalves"/> </p>  
+
