@@ -18,4 +18,5 @@
 </p>
 
 
-<p align=""><img src="https://github-readme-stats.vercel.app/api?username=luccasalves&show_icons=true&theme=dark" alt="luccasalves"/> </p>
+<p align=""><img src="https://github-readme-stats.vercel.app/api?username=luccasalves&show_icons=true&theme=dark" alt="luccasalves"/> </p>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasalves&&layout=compact)](https://github.com/luccasalves/github-readme-stats)
