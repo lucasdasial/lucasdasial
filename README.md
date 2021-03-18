@@ -8,7 +8,13 @@
 
 <p align="leaft"> Estou no iníco da minha jornada como Web developer <br> sou entusiasta por stacks front-end e mobile</p>
 
-<h3 align="center">Stacks que estou estudando💻:</h3>
-
+<h3 align="center">Stacks que estou estudando💻:</h3>  
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</p> 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasalves&&layout=compact)"(https://github.com/luccasalves/github-readme-stats)></p>  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=luccasalves&show_icons=true&theme=dark" alt="luccasalves"/> </p>  
