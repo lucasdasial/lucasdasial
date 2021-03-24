@@ -5,6 +5,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luccasalves&show_icons=true&theme=dark" alt="luccasalves"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasalves&&layout=compact)"(https://github.com/luccasalves/github-readme-stats)>
+</p>                            
+<p align="center">
+  
+<p align="center">👉
+  <a href="https://twitter.com/oh_dasilva">Twitter |</a> 
+  <a href="https://www.linkedin.com/in/alveslucano/">Linkedin |</a> 
+  <a href="https://www.instagram.com/im_lucasdasilva/">Instagram</a>
 </p>
 
 
