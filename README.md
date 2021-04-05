@@ -7,9 +7,10 @@
   <a href="https://www.linkedin.com/in/alveslucano/">Linkedin |</a> 
   <a href="https://www.instagram.com/im_lucasdasilva/">Instagram</a>
 </p>
-
+<p>
 <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=luccasalves&show_icons=true&theme=dracula" alt="luccasalves"/> 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasalves&&layout=compact&theme=dracula"(https://github.com/luccasalves/github-readme-stats)>
+</p>
 
 <p align="center">
   
