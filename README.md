@@ -1,5 +1,6 @@
 <h1 align="center">Olá Mundo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">🌎 , Eu sou Lucas Alves⚡</h1>
 <h3 align="center">Cursando Analise e desenvolvimento de Sistemas</h3>
+<h4 align="center">Estagiario dev .NET </h4>
 
 <p align="center"> Estou no iníco da minha jornada como developer,sou entusiasta por web front-end,game e mobile</p>  
 <p align="center">👉
