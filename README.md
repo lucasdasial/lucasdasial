@@ -2,11 +2,11 @@
 <h3 align="center">Cursando Analise e desenvolvimento de Sistemas</h3>
 <h4 align="center">Estagiario dev Front end </h4>
 
-<p align="center"> Estou no iníco da minha jornada como developer,sou entusiasta por web front-end,game e mobile</p>  
+<p align="center"> Estou no início da minha jornada como dev front-end</p>  
 <p align="center">👉
-  <a href="https://twitter.com/oh_dasilva">Twitter |</a> 
-  <a href="https://www.linkedin.com/in/alveslucano/">Linkedin |</a> 
-  <a href="https://www.instagram.com/im_lucasdasilva/">Instagram</a>
+  <a href="https://twitter.com/oh_dasilva" target="_blank" >Twitter |</a> 
+  <a href="https://www.linkedin.com/in/luccasalves/" target="_blank">Linkedin |</a> 
+  <a href="https://www.instagram.com/im_lucasdasilva/" target="_blank" >Instagram</a>
 </p>
 <p align="center">
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasalves&show_icons=true&theme=dracula" alt="luccasalves"/> 
