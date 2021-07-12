@@ -1,6 +1,9 @@
-### hi there!,i'm [lucas](https://luccasalves.github.io/) <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+### hi there!,i'm [lucas alves](https://luccasalves.github.io/) <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+<div>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasalves&show_icons=true&theme=dracula" alt="luccasalves"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasalves&&layout=compact&theme=dracula"(https://github.com/luccasalves/github-readme-stats)>
+</div>
 <hr>
-
   **About me**
   
   hi, I'm Lucas ALves, FrontEnd developer from Brazil 🇧🇷
@@ -36,10 +39,7 @@ These are some of the technologies and tools that I work with:
   <img src="https://img.icons8.com/color/32/000000/sass.png"/>
 </div>
 <hr>
-<div>
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasalves&show_icons=true&theme=dracula" alt="luccasalves"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasalves&&layout=compact&theme=dracula"(https://github.com/luccasalves/github-readme-stats)>
-</div>
+
 
 
    
