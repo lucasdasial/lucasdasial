@@ -17,6 +17,7 @@
   - 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/) and [Vue.js](https://vuejs.org/)
   
    Reach me out 👇🏼
+   <br>
    📨: as.lucasalves@gmail.com
   <div>
     <a href="" target="_blank"><img src="https://img.icons8.com/color/38/000000/linkedin.png"/></a>
