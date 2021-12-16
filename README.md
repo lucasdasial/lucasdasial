@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/luccasalves/"/>
   </a>
   <a href="https://www.linkedin.com/in/iuricode" alt="Site Pessoal">
-    <img src="https://img.shields.io/badge/-Site Pessoal-00FFFF?style=for-the-badge&logo=&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
+    <img src="https://img.shields.io/badge/-Site Pessoal-00FFFF?style=for-the-badge&logo=&logoColor=00FFFF&link=https://luccasalves.vercel.app"/>
   </a>
  </div>
  <hr/>
