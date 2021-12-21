@@ -2,7 +2,7 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Olá, Eu sou <strong>Lucas Alves</strong>, <strong>Desenvolvedor de Front-End</strong> na <a href="https://www.linkedin.com/company/lealsistemas/about/" target="_blank">Leal Sistemas</a>
+  🌎 Olá, Eu sou <strong>Lucas Alves</strong>, <strong>Desenvolvedor Front-End</strong> na <a href="https://www.linkedin.com/company/lealsistemas/about/" target="_blank">Leal Sistemas</a>
 </p>
 
 <p align="left"> 
