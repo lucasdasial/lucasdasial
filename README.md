@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
- 🌱 Me pergunte sobre Css, Javascript, TS, Vue, React será um prazer em ajudar! 💬 Adoro conversar sobre😉
+ 🌱 Me pergunte sobre Css, Javascript, TS, Vue, React será um prazer em ajudar e/ou aprender! 💬 Adoro conversar sobre😉
 </p>
 
 
