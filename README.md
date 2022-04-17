@@ -26,7 +26,7 @@
  </div>
  <hr/>
 <p align="left"> 
- ⚡ Minha maior expertise é <strong>Typscript, Vue JS e suas ferramentas </strong>. Mas Tambem fazem parte da gama de conhecimentos:
+ ⚡ Minha maior expertise é <strong>Typscript, Vue JS e suas ferramentas </strong>. Mas Tambem fazem parte da minha gama de conhecimentos:
 </p>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:32px"/>
