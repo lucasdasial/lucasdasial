@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
- 🌱 Profissional em T, com foco no front-end mais com conhecimento nas demais area do desenvolvimento. Cada dia me aprofundnado cada vez mais.
+ 🌱 Profissional em T, com foco no front-end, mas tambem com conhecimento nas demais areas do desenvolvimento. Cada dia me aprofundnado cada vez mais.
 </p>
 
 
