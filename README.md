@@ -6,9 +6,9 @@
 </p>
 
 <p align="left"> 
- 🌱 Sempre em crescimento.
+ 🌱 Sempre em crescimento. Vuejs & Go lover
  <br/>
- Vuejs & Go lover
+
 </p>
 
 
