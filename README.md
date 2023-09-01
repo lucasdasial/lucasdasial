@@ -52,8 +52,8 @@
  
 <div> 
   <br>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasalves&&layout=compact&langs_count=8&theme=dracula"(https://github.com/luccasalves/github-readme-stats)>
- <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=luccasalves&show_icons=true&theme=dracula" alt="luccasalves"/> 
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdasial&&layout=compact&langs_count=8&theme=dracula"(https://github.com/luccasalves/github-readme-stats)>
+ <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasdasial&show_icons=true&theme=dracula" alt="luccasalves"/> 
  
 </div>
  
