@@ -40,12 +40,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="width:32px" /> 
 </div> 
  
-<div> 
-  <br>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdasial&&layout=compact&langs_count=8&theme=dracula"(https://github.com/luccasalves/github-readme-stats)>
- <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasdasial&show_icons=true&theme=dracula" alt="luccasalves"/> 
- 
-</div>
+
  
 
 
