@@ -1,6 +1,9 @@
 
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
+<a href="https://app.bounties4.com/@/lucasdasial" target="_blank"><img title="bounties4.com/@/lucasdasial" alt="bounties4.com/@/lucasdasial" src="https://storage.googleapis.com/profile_avatar/production/114233705423083533204/1696599575147_badge.png" width="400" height="400" /></a>
+
+
 <p align="left"> 
   🌎 Olá, Eu sou <strong>Lucas Alves</strong>, <strong>Desenvolvedor Mobile</strong> na <a href="https://www.idopterlabs.com.br/" target="_blank">Idopter Labs</a>
 </p>
