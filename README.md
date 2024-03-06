@@ -16,7 +16,7 @@ My name is Lucas Alves but I'm known as Dasial.
 I'm currently a Software developer at <a href="https://www.idopterlabs.com.br/">Idopter Labs.</a>
 </p>
 Main knowloledge:
-<p>Flutter | React Native | Android | Typescript</p>
+<p>Flutter | React Native | Android | Typescript | Mobile architectures</p>
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  style="width:32px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="width:32px" />
@@ -28,7 +28,10 @@ Main knowloledge:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="width:32px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="width:32px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="width:32px" /> 
-</div> 
+</div>
+
+</br>
+<i>At the moment I'm studying Elixir, Java and Angular 🌱 </i>
 
 <hr/>
 
