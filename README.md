@@ -7,7 +7,7 @@
  Hi there, Welcome to my profile
 </h1>
 <h3>
- 👨‍💻 Mid / Senior Mobile developer 
+ 👨‍💻 Mobile enginnier | Fullstack Developer 
 </h3>
 <p>
 My name is Lucas Alves but I'm known as Dasial.
