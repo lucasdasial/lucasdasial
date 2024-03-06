@@ -13,10 +13,10 @@
 My name is Lucas Alves but I'm known as Dasial.
 </p>
 <p>
-I'm currently a Mobile developer & Team Leader at <a href="https://www.idopterlabs.com.br/">Idopter Labs.</a>
+I'm currently a Software developer at <a href="https://www.idopterlabs.com.br/">Idopter Labs.</a>
 </p>
 Main knowloledge:
-<p>Java | Kotlin | Android | React native | Flutter | IOS</p>
+<p>Flutter | React Native | Android | Typescript</p>
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  style="width:32px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="width:32px" />
