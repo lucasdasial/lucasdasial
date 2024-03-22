@@ -1,6 +1,7 @@
 
- <img src="https://1010coding.com/wp-content/uploads/2021/12/Mobile-App-developer-3.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
+ <div> 
+ <!-- <img src="https://1010coding.com/wp-content/uploads/2021/12/Mobile-App-developer-3.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"> -->
+ </div>
 
 
 <h1 align="left"> 
@@ -44,7 +45,8 @@ Main knowloledge:
  </div>
 
 <div> 
-<!--  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdasial&&layout=compact&langs_count=8&theme=dracula"(https://github.com/luccasalves/github-readme-stats)> -->
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdasial&&layout=compact&langs_count=6&theme=dracula"(https://github.com/luccasalves/github-readme-stats) />
+
 <!--  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasdasial&show_icons=true&theme=dracula" alt="luccasalves"/>  -->
 
 </div>
