@@ -1,65 +1,18 @@
-
- <div> 
- <!-- <img src="https://1010coding.com/wp-content/uploads/2021/12/Mobile-App-developer-3.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"> -->
- </div>
+# 🖖 About Me:
+My name is Lucas Alves but I'm known as Dasial.<br>I'm Fullstack developer but currently  i work as mobile developer. <br>Technology is a tool I use to achieve my goals and help other people wherever I go, so I'm always learning.🌱 <br>
 
 
-<h1 align="left"> 
- Hi there, Welcome to my profile
-</h1>
-<h3>
- 👨‍💻 Mobile enginnier | Fullstack Developer 
-</h3>
-<p>
-My name is Lucas Alves but I'm known as Dasial.
-</p>
-<p>
-I'm currently a Software developer at <a href="https://www.idopterlabs.com.br/">Idopter Labs.</a>
-</p>
-Main knowloledge:
-<p>Flutter | React Native | Android | Typescript | Mobile architectures</p>
-<div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  style="width:32px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="width:32px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width:32px" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:32px"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width:32px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"style="width:32px" />
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/lucas.dasial/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lucasdasial/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/lucasdasial) 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="width:32px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="width:32px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="width:32px" /> 
-</div>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lucas Dasial&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lucas Dasial&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas Dasial&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-</br>
-<i>At the moment I'm studying Elixir, Java and Angular 🌱 </i>
+---
+[![](https://visitcount.itsvg.in/api?id=Lucas Dasial&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<hr/>
-
-🌐 How to reach me: 
- as.lucasalves@gmail.com
- <div>
- <a href="https://www.linkedin.com/in/lucasdasial/" target="blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/luccasalves/"/>
-  </a>
- </div>
-
-<div> 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdasial&&layout=compact&langs_count=6&theme=dracula"(https://github.com/luccasalves/github-readme-stats) />
-
-<!--  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasdasial&show_icons=true&theme=dracula" alt="luccasalves"/>  -->
-
-</div>
- 
-
- 
-
-
-   
-
-
-
- 
-
-   
- 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
