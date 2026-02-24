@@ -1,6 +1,8 @@
-👋 Hi! I'm Lucas Dasial
+### 👋 Oi! Me chamo Lucas Dasial.   
+  Sou desenvolvedor de software com experiência em desenvolvimento backend e mobile. Domínio das linguagens Elixir, Typescript( Node.js ) e Flutter.
+Me interesso por arquitetura de software, system design, sistemas distribuidos, Android e soluções financeiras.
 
-I'm a Software Developer with experience in backend and mobile development, building APIs, integrations, and high-performance systems. I work with Java, Elixir, Typescript and Flutter.
+
 
 #### 🌐 Links:
 [Site](https://lucasdasial.com.br/) | [Gitlab](https://gitlab.com/lucasdasial) | [Linkedin](https://www.linkedin.com/feed/)
