@@ -1,5 +1,5 @@
 ### 👋 Oi! Me chamo Lucas Dasial.   
-  Desenvolvedor backend e mobile. Me interesso por arquitetura de software, sistemas distribuidos, aplicativos e soluções financeiras.
+  Desenvolvedor backend(Elixir e Node.js) e mobile(Flutter). Me interesso por arquitetura de software, sistemas distribuidos, aplicativos e soluções financeiras.
 
 
 #### 🌐 Links:
